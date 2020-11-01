@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806393269382",
+    "firebase_url": "https://app-90-phone-verification.firebaseio.com",
+    "project_id": "app-90-phone-verification",
+    "storage_bucket": "app-90-phone-verification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806393269382:android:f3ba34cb6a95f7afe45507",
+        "android_client_info": {
+          "package_name": "uz.onveti.myapp90firebasephoneverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806393269382-ljvkkq8up4opc0iil895jaotq7iu26bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5K4cAZsm8q8g7bYpxDV0sTmk-RNcSWLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806393269382-ljvkkq8up4opc0iil895jaotq7iu26bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
